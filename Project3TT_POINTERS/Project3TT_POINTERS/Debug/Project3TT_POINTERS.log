@@ -1,0 +1,5 @@
+﻿  PointersForm.cpp
+PointersForm.cpp(10): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  PointersForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Project3TT_POINTERS.vcxproj -> C:\Users\Wilson\Documents\Project3TT_POINTERS\Debug\Project3TT_POINTERS.exe
+  Project3TT_POINTERS.vcxproj -> C:\Users\Wilson\Documents\Project3TT_POINTERS\Debug\Project3TT_POINTERS.pdb (Partial PDB)
